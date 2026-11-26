@@ -10,7 +10,7 @@ async function run() {
         const entry = await client.entries.submit({
             competition: 'tiny-chess-01',
             repoUrl: 'https://github.com/tedTorus/tiny-chess-infero',
-            commitSha: 'b4bbeaca01834a57c4c67ba69a33aca6df7bb89b',
+            commitSha: '5ccb98aa1d31807e7776095c39bb40b7631ae1a4',
             bundle,
             title: 'Infero Sunfish',
             signer,
